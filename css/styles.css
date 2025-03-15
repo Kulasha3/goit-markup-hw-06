@@ -1291,4 +1291,7 @@ a {
     cursor: pointer;
   }
 
-  
+        .modal-btn-close {
+          cursor: pointer;
+        }
+        }
